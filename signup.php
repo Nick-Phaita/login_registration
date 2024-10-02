@@ -15,7 +15,7 @@ if(isset($_SESSION['user_email'])){
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up - Footmarkz.com</title>
+    <title>Login/Signup</title>
     <link rel="stylesheet" href="style.css" media="all" type="text/css">
 </head>
 
