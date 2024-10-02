@@ -1,4 +1,5 @@
 <?php
+// Simple Login/Signup application to be used for server admin testing purposes
 session_start();
 require 'db_connection.php';
 require 'insert_user.php';

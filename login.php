@@ -1,4 +1,5 @@
 <?php
+// Simple Login/Signup application to be used for server admin testing purposes
 if(isset($_POST['user_email']) && isset($_POST['user_password'])){
 
 // CHECK IF FIELDS ARE NOT EMPTY
